@@ -18,7 +18,7 @@ summary(data)
 coords <- data.frame(lon,lat)#spatial
 data <- data.frame(var1)#non-spatial
 datsp
-#Lesson 2:Task on K-Means charting
+
 
 
 
